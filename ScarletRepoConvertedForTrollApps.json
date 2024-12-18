@@ -20,10 +20,10 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "0.331.1",
+          "version": "3.6.3",
           "date": "2024-12-18",
           "localizedDescription": "Latest version with enhanced features.",
-          "downloadURL": "https://ipogo.app/download/ipogo-3.5.5.ipa",
+          "downloadURL": "https://ipogo.app/download/ipogo-3.6.3.ipa",
           "size": 0,
           "minOSVersion": "12.0",
           "maxOSVersion": "17.0"
@@ -42,10 +42,10 @@
       "screenshotURLs": [],
       "versions": [
         {
-          "version": "0.331.1",
+          "version": "0.343.0",
           "date": "2024-12-18",
           "localizedDescription": "- Added support for the latest version\n- Fixed Scarlet install error",
-          "downloadURL": "https://www.spooferx.app/ipa/SpooferPro-0.331.1-0.394.ipa",
+          "downloadURL": "https://www.spooferx.app/ipa/SpooferPro-0.343.0-0.440.ipa",
           "size": 0,
           "minOSVersion": "12.0",
           "maxOSVersion": "17.0"
