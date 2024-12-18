@@ -1,0 +1,170 @@
+{
+  "name": "Scarlet Repo",
+  "subtitle": "Official Scarlet Repository",
+  "description": "A curated collection of apps, games, emulators, and more for iOS devices.",
+  "iconURL": "https://usescarlet.com/favicon.png",
+  "headerURL": "https://usescarlet.com/favicon.png",
+  "website": "https://usescarlet.com",
+  "tintColor": "#FF0000",
+  "featuredApps": ["com.DebianArch.Scarlet"],
+  "apps": [
+    {
+      "name": "iPogo",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "developerName": "iPogo Team",
+      "subtitle": "Hacked version of Pokémon GO.",
+      "localizedDescription": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
+      "iconURL": "https://usescarlet.com/icons/ipogo.png",
+      "tintColor": "#FFD700",
+      "category": "Hacked Games",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "0.331.1",
+          "date": "2024-12-18",
+          "localizedDescription": "Latest version with enhanced features.",
+          "downloadURL": "https://ipogo.app/download/ipogo-3.5.5.ipa",
+          "size": 0,
+          "minOSVersion": "12.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "SpooferX",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "developerName": "SpooferX Team",
+      "subtitle": "Enhanced Pokémon GO experience.",
+      "localizedDescription": "SpooferX adds joystick, teleport, IV checking, enhanced throw, auto walking, GPX, fast catch, a live feed, and even a map with everything around you.",
+      "iconURL": "https://usescarlet.com/icons/spooferx.png",
+      "tintColor": "#32CD32",
+      "category": "Hacked Games",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "0.331.1",
+          "date": "2024-12-18",
+          "localizedDescription": "- Added support for the latest version\n- Fixed Scarlet install error",
+          "downloadURL": "https://www.spooferx.app/ipa/SpooferPro-0.331.1-0.394.ipa",
+          "size": 0,
+          "minOSVersion": "12.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "Sposify++",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Scarlet Team",
+      "subtitle": "Enhanced Spotify experience.",
+      "localizedDescription": "Sposify and Spotilife tweak merged into one app.",
+      "iconURL": "https://usescarlet.com/icons/sposify.png",
+      "tintColor": "#1DB954",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "8.6.42",
+          "date": "2024-12-18",
+          "localizedDescription": "- Updated Spotilife to v1.8",
+          "downloadURL": "https://resources.usescarlet.com/repo/IPAs/Spotify.ipa",
+          "size": 0,
+          "minOSVersion": "12.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "Instagram Rhino",
+      "bundleIdentifier": "com.rhino.InstagramApp",
+      "developerName": "Rhino Devs",
+      "subtitle": "Enhanced Instagram experience.",
+      "localizedDescription": "Experience Instagram with advanced features and customization options.",
+      "iconURL": "https://iosninja.io/img/ipas/instagram_rhino.png",
+      "tintColor": "#C13584",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "187.0",
+          "date": "2024-12-18",
+          "localizedDescription": "Bug fixes and performance improvements.",
+          "downloadURL": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
+          "size": 0,
+          "minOSVersion": "12.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "VideoStar",
+      "bundleIdentifier": "com.frontierdesign.videostar",
+      "developerName": "Frontier Design",
+      "subtitle": "Advanced video editing app.",
+      "localizedDescription": "Create stunning videos with professional-grade tools.",
+      "iconURL": "https://usescarlet.com/icons/videostar.png",
+      "tintColor": "#FF69B4",
+      "category": "Tweaked Apps",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "12.1.9",
+          "date": "2024-12-18",
+          "localizedDescription": "Includes the latest tweaks for enhanced functionality.",
+          "downloadURL": "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/Video.Star.ipa",
+          "size": 0,
+          "minOSVersion": "12.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "Taurine",
+      "bundleIdentifier": "com.odysseyteam.taurine",
+      "developerName": "Odyssey-Team",
+      "subtitle": "Modern jailbreak for iOS.",
+      "localizedDescription": "Time to get amped.",
+      "iconURL": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
+      "tintColor": "#4B0082",
+      "category": "Jailbreaks",
+      "screenshotURLs": [
+        "https://taurine.app/assets/images/iphones.png",
+        "https://taurine.app/assets/images/iphone.png"
+      ],
+      "versions": [
+        {
+          "version": "1.1.7",
+          "date": "2024-12-18",
+          "localizedDescription": "Time to get amped.",
+          "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
+          "size": 0,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "Scarlet",
+      "bundleIdentifier": "com.DebianArch.Scarlet",
+      "developerName": "Scarlet Team",
+      "subtitle": "The ultimate sideloading tool.",
+      "localizedDescription": "Allows you to tweak and sideload apps, import certificates, and more.",
+      "iconURL": "https://usescarlet.com/icon.png",
+      "tintColor": "#FF0000",
+      "category": "Alpha",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-12-18",
+          "localizedDescription": "- Added fakesign support\n- Added back SSL install support.",
+          "downloadURL": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
+          "size": 0,
+          "minOSVersion": "12.0",
+          "maxOSVersion": "17.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
